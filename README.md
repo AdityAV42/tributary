@@ -1,5 +1,5 @@
 # tributary
-This repo is for FORAGE course on FORD Digital Advanced. 
+This repo is for FORAGE course on FORD Digital Advanced Job Simulation 
 
 Tech Stack needed:
 1) git and github
